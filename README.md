@@ -42,4 +42,4 @@ checker repository: https://github.com/johncoleman83/monty-checker
 
 ## License
 
-Public Domain, no copyright protection
+MIT License
